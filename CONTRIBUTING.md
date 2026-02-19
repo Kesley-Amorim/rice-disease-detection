@@ -30,7 +30,7 @@ Para sugerir novas funcionalidades:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/[usuario]/[repositorio].git
+git clone https://github.com/Kesley-Amorim/rice-disease-detection.git
 cd [repositorio]
 
 # Crie um ambiente virtual
