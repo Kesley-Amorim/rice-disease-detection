@@ -225,9 +225,9 @@ pixels      (0-1)         Features              Confiança
 - 📱 Desenvolvimento de aplicações
 
 ### Entre em Contato:
-- **GitHub:** [Repositório do Projeto]
-- **Email:** [Contato dos Autores]
-- **LinkedIn:** [Perfis Profissionais]
+- **GitHub:** https://github.com/Kesley-Amorim/rice-disease-detection
+- **Email:** kesley.amorim@mail.usf.edu.br
+
 
 ---
 
@@ -281,6 +281,6 @@ A solução está pronta para:
 
 *Transformando dados em decisões, tecnologia em produtividade*
 
-[⭐ Star no GitHub](https://github.com/[usuario]/[repositorio]) | [📖 Documentação](README.md) | [🤝 Contribuir](CONTRIBUTING.md)
+[⭐ Star no GitHub](https://github.com/Kesley-Amorim/rice-disease-detection) | [📖 Documentação](README.md) | [🤝 Contribuir](CONTRIBUTING.md)
 
 </div>
