@@ -1,0 +1,22 @@
+# Core Dependencies
+tensorflow>=2.10.0
+numpy>=1.23.0
+matplotlib>=3.5.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.15.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Optional: For better visualization
+seaborn>=0.12.0
+pandas>=1.4.0
+
+# Optional: For model analysis
+scikit-learn>=1.1.0
+
+# Optional: For progress bars
+tqdm>=4.64.0
